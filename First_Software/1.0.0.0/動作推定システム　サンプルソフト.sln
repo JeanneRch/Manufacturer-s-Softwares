@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34114.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "動作推定システム　サンプルソフト", "動作推定システム　サンプルソフト.vbproj", "{BC8433C2-7D6A-4503-8523-1D0D0B7C12BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC8433C2-7D6A-4503-8523-1D0D0B7C12BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC8433C2-7D6A-4503-8523-1D0D0B7C12BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC8433C2-7D6A-4503-8523-1D0D0B7C12BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC8433C2-7D6A-4503-8523-1D0D0B7C12BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04716DA6-DAE7-4ADC-A927-E270F10E510B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jeanne\\Desktop\\Silver sensors software\\\u63D0\u51FA\u7528\u30B5\u30F3\u30D7\u30EB\u30BD\u30D5\u30C8\\1.0.0.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8433C2-7D6A-4503-8523-1D0D0B7C12BA}|\u52D5\u4F5C\u63A8\u5B9A\u30B7\u30B9\u30C6\u30E0\u3000\u30B5\u30F3\u30D7\u30EB\u30BD\u30D5\u30C8.vbproj|c:\\users\\jeanne\\desktop\\silver sensors software\\\u63D0\u51FA\u7528\u30B5\u30F3\u30D7\u30EB\u30BD\u30D5\u30C8\\1.0.0.0\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{BC8433C2-7D6A-4503-8523-1D0D0B7C12BA}|\u52D5\u4F5C\u63A8\u5B9A\u30B7\u30B9\u30C6\u30E0\u3000\u30B5\u30F3\u30D7\u30EB\u30BD\u30D5\u30C8.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8433C2-7D6A-4503-8523-1D0D0B7C12BA}|\u52D5\u4F5C\u63A8\u5B9A\u30B7\u30B9\u30C6\u30E0\u3000\u30B5\u30F3\u30D7\u30EB\u30BD\u30D5\u30C8.vbproj|C:\\Users\\Jeanne\\Desktop\\Silver sensors software\\\u63D0\u51FA\u7528\u30B5\u30F3\u30D7\u30EB\u30BD\u30D5\u30C8\\1.0.0.0\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BC8433C2-7D6A-4503-8523-1D0D0B7C12BA}|\u52D5\u4F5C\u63A8\u5B9A\u30B7\u30B9\u30C6\u30E0\u3000\u30B5\u30F3\u30D7\u30EB\u30BD\u30D5\u30C8.vbproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8433C2-7D6A-4503-8523-1D0D0B7C12BA}|\u52D5\u4F5C\u63A8\u5B9A\u30B7\u30B9\u30C6\u30E0\u3000\u30B5\u30F3\u30D7\u30EB\u30BD\u30D5\u30C8.vbproj|C:\\Users\\Jeanne\\Desktop\\Silver sensors software\\\u63D0\u51FA\u7528\u30B5\u30F3\u30D7\u30EB\u30BD\u30D5\u30C8\\1.0.0.0\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BC8433C2-7D6A-4503-8523-1D0D0B7C12BA}|\u52D5\u4F5C\u63A8\u5B9A\u30B7\u30B9\u30C6\u30E0\u3000\u30B5\u30F3\u30D7\u30EB\u30BD\u30D5\u30C8.vbproj|solutionrelative:form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|\u52D5\u4F5C\u63A8\u5B9A\u30B7\u30B9\u30C6\u30E0\u3000\u30B5\u30F3\u30D7\u30EB\u30BD\u30D5\u30C8||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\Jeanne\\Desktop\\Silver sensors software\\\u63D0\u51FA\u7528\u30B5\u30F3\u30D7\u30EB\u30BD\u30D5\u30C8\\1.0.0.0\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "Form1.Designer.vb",
+              "ToolTip": "C:\\Users\\Jeanne\\Desktop\\Silver sensors software\\\u63D0\u51FA\u7528\u30B5\u30F3\u30D7\u30EB\u30BD\u30D5\u30C8\\1.0.0.0\\Form1.Designer.vb",
+              "RelativeToolTip": "Form1.Designer.vb",
+              "ViewState": "AgIAADgAAAAAAAAAAAAqwMEBAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-02T08:41:41.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Jeanne\\Desktop\\Silver sensors software\\\u63D0\u51FA\u7528\u30B5\u30F3\u30D7\u30EB\u30BD\u30D5\u30C8\\1.0.0.0\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\Jeanne\\Desktop\\Silver sensors software\\\u63D0\u51FA\u7528\u30B5\u30F3\u30D7\u30EB\u30BD\u30D5\u30C8\\1.0.0.0\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-02T08:39:38.972Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Jeanne\\Desktop\\Silver sensors software\\\u63D0\u51FA\u7528\u30B5\u30F3\u30D7\u30EB\u30BD\u30D5\u30C8\\1.0.0.0\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\Jeanne\\Desktop\\Silver sensors software\\\u63D0\u51FA\u7528\u30B5\u30F3\u30D7\u30EB\u30BD\u30D5\u30C8\\1.0.0.0\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-02T08:38:31.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "\u52D5\u4F5C\u63A8\u5B9A\u30B7\u30B9\u30C6\u30E0\u3000\u30B5\u30F3\u30D7\u30EB\u30BD\u30D5\u30C8",
+              "DocumentMoniker": "C:\\Users\\Jeanne\\Desktop\\Silver sensors software\\\u63D0\u51FA\u7528\u30B5\u30F3\u30D7\u30EB\u30BD\u30D5\u30C8\\1.0.0.0\\\u52D5\u4F5C\u63A8\u5B9A\u30B7\u30B9\u30C6\u30E0\u3000\u30B5\u30F3\u30D7\u30EB\u30BD\u30D5\u30C8.vbproj",
+              "RelativeDocumentMoniker": "\u52D5\u4F5C\u63A8\u5B9A\u30B7\u30B9\u30C6\u30E0\u3000\u30B5\u30F3\u30D7\u30EB\u30BD\u30D5\u30C8.vbproj",
+              "ToolTip": "C:\\Users\\Jeanne\\Desktop\\Silver sensors software\\\u63D0\u51FA\u7528\u30B5\u30F3\u30D7\u30EB\u30BD\u30D5\u30C8\\1.0.0.0\\\u52D5\u4F5C\u63A8\u5B9A\u30B7\u30B9\u30C6\u30E0\u3000\u30B5\u30F3\u30D7\u30EB\u30BD\u30D5\u30C8.vbproj",
+              "RelativeToolTip": "\u52D5\u4F5C\u63A8\u5B9A\u30B7\u30B9\u30C6\u30E0\u3000\u30B5\u30F3\u30D7\u30EB\u30BD\u30D5\u30C8.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-02T08:39:26.95Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
